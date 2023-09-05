@@ -1,0 +1,13 @@
+/amp_properties.c
+/build
+/controls.c
+/debug
+/dist
+/i2c_modules.c
+/input_sources.c
+/interrupt.c
+/led_data.c
+/led_ins.c
+/main.c
+/nbproject
+/setup.c
